@@ -4,4 +4,4 @@ def looping
 	end
 end
 
-"Wingardium Leviosa"
+looping
